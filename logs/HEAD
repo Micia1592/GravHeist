@@ -1,0 +1,154 @@
+0000000000000000000000000000000000000000 ead387ee0d6c24e6e1bda820ee50afef3e749531 Michael Saiger <mjs638@york.ac.uk> 1604401404 +0000	clone: from https://github.com/BryceAudio/Game-Development-Module.git
+ead387ee0d6c24e6e1bda820ee50afef3e749531 e1edd5207749024e5b63ada0ce80c21db1510369 Michael Saiger <mjs638@york.ac.uk> 1604401840 +0000	pull --no-commit origin main: Fast-forward
+e1edd5207749024e5b63ada0ce80c21db1510369 8ca4c8f28a49ad3a166f6092af79ade97dc027d4 Michael Saiger <mjs638@york.ac.uk> 1604401904 +0000	commit: Miketest
+8ca4c8f28a49ad3a166f6092af79ade97dc027d4 f538bc72ade0d632cd4e631ddc232f51157c0a03 Michael Saiger <mjs638@york.ac.uk> 1604402027 +0000	pull --no-commit origin main: Fast-forward
+f538bc72ade0d632cd4e631ddc232f51157c0a03 6a3782d64c0b6e4cab774943554a8ca7aec9f82a Michael Saiger <mjs638@york.ac.uk> 1604404412 +0000	pull --no-commit origin main: Fast-forward
+6a3782d64c0b6e4cab774943554a8ca7aec9f82a 4c7f1284be8d21b50c160e291e2760f5163775f7 Michael Saiger <mjs638@york.ac.uk> 1604405671 +0000	pull --no-commit origin main: Fast-forward
+4c7f1284be8d21b50c160e291e2760f5163775f7 4c7f1284be8d21b50c160e291e2760f5163775f7 Michael Saiger <mjs638@york.ac.uk> 1604405803 +0000	reset: moving to 4c7f1284be8d21b50c160e291e2760f5163775f7
+4c7f1284be8d21b50c160e291e2760f5163775f7 85c9b29a4b43e22015f0939c3e1acac8d512295c Michael Saiger <mjs638@york.ac.uk> 1604408501 +0000	pull --no-commit origin main: Fast-forward
+85c9b29a4b43e22015f0939c3e1acac8d512295c d7487f793e29433fd00c106c17abd3fb872470b8 Michael Saiger <mjs638@york.ac.uk> 1604408975 +0000	commit: Added Respawn Script and rigid2d (static) to switch (error occurred for me)
+d7487f793e29433fd00c106c17abd3fb872470b8 d10658876b13a35ab75f9f01cdf6b16e60910182 Michael Saiger <mjs638@york.ac.uk> 1604412322 +0000	pull --no-commit origin main: Fast-forward
+d10658876b13a35ab75f9f01cdf6b16e60910182 6c97261fa584d20ac8410590c3ba15a7eeef4fc2 Michael Saiger <mjs638@york.ac.uk> 1604413045 +0000	commit: Added 3 new scenes for testing (i edited the ollie scene too)
+6c97261fa584d20ac8410590c3ba15a7eeef4fc2 7210b008fbf2567eba4203bd8b0b42b929ad5a91 Michael Saiger <mjs638@york.ac.uk> 1604413395 +0000	commit (merge): Merge branch 'main' of https://github.com/BryceAudio/Game-Development-Module into main
+7210b008fbf2567eba4203bd8b0b42b929ad5a91 159431ff93e911b855b65322e29ab60d0f95aafd Michael Saiger <mjs638@york.ac.uk> 1604413403 +0000	pull origin main: Merge made by the 'recursive' strategy.
+159431ff93e911b855b65322e29ab60d0f95aafd ab131ae5ac810bca4bf509c16922283204fe63c2 Michael Saiger <mjs638@york.ac.uk> 1604413747 +0000	pull origin main: Fast-forward
+ab131ae5ac810bca4bf509c16922283204fe63c2 ab131ae5ac810bca4bf509c16922283204fe63c2 Michael Saiger <mjs638@york.ac.uk> 1604413778 +0000	reset: moving to ab131ae5ac810bca4bf509c16922283204fe63c2
+ab131ae5ac810bca4bf509c16922283204fe63c2 e58528abb79ca0744bc5793a8717aab6b09d0bf8 Michael Saiger <mjs638@york.ac.uk> 1604418667 +0000	pull origin main: Fast-forward
+e58528abb79ca0744bc5793a8717aab6b09d0bf8 0de63507d7f8333fd8cf42a6705a446aff9cc808 Michael Saiger <mjs638@york.ac.uk> 1604428595 +0000	pull origin main: Fast-forward
+0de63507d7f8333fd8cf42a6705a446aff9cc808 e43fb61ff9928bb84af2ce8cd5af001a3d29dbc5 Michael Saiger <mjs638@york.ac.uk> 1604429719 +0000	pull origin main: Fast-forward
+e43fb61ff9928bb84af2ce8cd5af001a3d29dbc5 4fec160cbdb094b0592d327c1697b16b9cf6fa75 Michael Saiger <mjs638@york.ac.uk> 1604435268 +0000	commit: Added scripts for player projectile and gravgun
+4fec160cbdb094b0592d327c1697b16b9cf6fa75 d2c6fe570a4fe8b6cdf039f99af020fbad386d5e Michael Saiger <mjs638@york.ac.uk> 1604435274 +0000	pull origin main: Merge made by the 'recursive' strategy.
+d2c6fe570a4fe8b6cdf039f99af020fbad386d5e d2c6fe570a4fe8b6cdf039f99af020fbad386d5e Michael Saiger <mjs638@york.ac.uk> 1604435415 +0000	reset: moving to d2c6fe570a4fe8b6cdf039f99af020fbad386d5e
+d2c6fe570a4fe8b6cdf039f99af020fbad386d5e 5f7cd29d9fb3dc32cd8a5a35b46d20c9a7def9fb Michael Saiger <mjs638@york.ac.uk> 1604436794 +0000	commit: Changed projectile to destroy on tags "solid". Made door puzzle
+5f7cd29d9fb3dc32cd8a5a35b46d20c9a7def9fb 05fc3b6e46fa7f88737068f28b6518ce25d4b344 Michael Saiger <mjs638@york.ac.uk> 1604489504 +0000	pull origin main: Fast-forward
+05fc3b6e46fa7f88737068f28b6518ce25d4b344 d3df3378ef9ad9616e6c58c0d6afb5f6254940d2 Michael Saiger <mjs638@york.ac.uk> 1604489540 +0000	commit: amended projectile and gravgun scripts
+d3df3378ef9ad9616e6c58c0d6afb5f6254940d2 865ac2d6fe30c4c82cc99db920fa0cf34dc113d2 Michael Saiger <mjs638@york.ac.uk> 1604490576 +0000	pull origin main: Fast-forward
+865ac2d6fe30c4c82cc99db920fa0cf34dc113d2 157660f2a70cde7dd58d07d71b4b5ce55bf79839 Michael Saiger <mjs638@york.ac.uk> 1604491441 +0000	pull origin main: Fast-forward
+157660f2a70cde7dd58d07d71b4b5ce55bf79839 7be80ffe00b83fa68f71d5e0e45ab49373750fba Michael Saiger <mjs638@york.ac.uk> 1604492269 +0000	commit: character update
+7be80ffe00b83fa68f71d5e0e45ab49373750fba 8eb580b6836a7f477790ae1c340a67cea59fef73 Michael Saiger <mjs638@york.ac.uk> 1604492353 +0000	pull origin main: Merge made by the 'recursive' strategy.
+8eb580b6836a7f477790ae1c340a67cea59fef73 ce382f632f5ede5cb4ab6d8e6c545489496c391c Michael Saiger <mjs638@york.ac.uk> 1604493330 +0000	pull origin main: Fast-forward
+ce382f632f5ede5cb4ab6d8e6c545489496c391c c1d1a693326844fa6a12e3a0a21704f5173c6532 Michael Saiger <mjs638@york.ac.uk> 1604499737 +0000	pull origin main: Fast-forward
+c1d1a693326844fa6a12e3a0a21704f5173c6532 f12a8026623ba9ebb0784166beab5329631bf840 Michael Saiger <mjs638@york.ac.uk> 1604502857 +0000	pull origin main: Fast-forward
+f12a8026623ba9ebb0784166beab5329631bf840 1dd87c9d46f28178830cb82566f275968cf4358e Michael Saiger <mjs638@york.ac.uk> 1604504370 +0000	pull origin main: Fast-forward
+1dd87c9d46f28178830cb82566f275968cf4358e 7a7e2cd8ec55bfb50026e5eeaba8158116b38e87 Michael Saiger <mjs638@york.ac.uk> 1604524212 +0000	commit: created prefabs and resolved the blinking death walls. played around with animations
+7a7e2cd8ec55bfb50026e5eeaba8158116b38e87 4c48020da5ced39cb3c3122bd796730e0c62f48c Michael Saiger <mjs638@york.ac.uk> 1604571675 +0000	commit: Playing around with checkpoints and death triggers.
+4c48020da5ced39cb3c3122bd796730e0c62f48c 32fbafdaaf23b71f0f7c82432073921f846ff96d Michael Saiger <mjs638@york.ac.uk> 1604572829 +0000	pull origin main: Fast-forward
+32fbafdaaf23b71f0f7c82432073921f846ff96d 47d96461cc66c39fb73d69fdb54d06f0209ae2da Michael Saiger <mjs638@york.ac.uk> 1604575149 +0000	commit: commit level changes
+47d96461cc66c39fb73d69fdb54d06f0209ae2da 9b974451778b524d4e9a6a085927a1bcc8a1679e Michael Saiger <mjs638@york.ac.uk> 1604575287 +0000	reset: moving to 9b974451778b524d4e9a6a085927a1bcc8a1679e
+9b974451778b524d4e9a6a085927a1bcc8a1679e d9a258f3fef742f4671cb85cc0e3e4ae9bdb037f Michael Saiger <mjs638@york.ac.uk> 1604575386 +0000	pull origin main: Fast-forward
+d9a258f3fef742f4671cb85cc0e3e4ae9bdb037f aca965d806ef42f4c5df29085f52a8ec9c42aae6 Michael Saiger <mjs638@york.ac.uk> 1604575954 +0000	commit: REsolved conflicts. stitched levels together
+aca965d806ef42f4c5df29085f52a8ec9c42aae6 cb8e5fce5714213ab0c8ab3ee9ea4c165b764f0c Michael Saiger <mjs638@york.ac.uk> 1604576078 +0000	pull origin main: Fast-forward
+cb8e5fce5714213ab0c8ab3ee9ea4c165b764f0c df8b3f9c1b9361161774c765509d4714379c51ab Michael Saiger <mjs638@york.ac.uk> 1604580757 +0000	pull --no-commit origin main: Fast-forward
+df8b3f9c1b9361161774c765509d4714379c51ab 69d4b74cfc5cfc7c0873c2a87e47931bdb2da22d Michael Saiger <mjs638@york.ac.uk> 1604585654 +0000	pull --no-commit origin main: Fast-forward
+69d4b74cfc5cfc7c0873c2a87e47931bdb2da22d b64c2ec572ea88490ff9fc33bc7579adf563cfea Michael Saiger <mjs638@york.ac.uk> 1604586176 +0000	commit: New scenes added.
+b64c2ec572ea88490ff9fc33bc7579adf563cfea 027366a05b64ada0934fd3b442cf20c2005a1a17 Michael Saiger <mjs638@york.ac.uk> 1604586831 +0000	pull --no-commit origin main: Fast-forward
+027366a05b64ada0934fd3b442cf20c2005a1a17 c56a5d8c0aeb6508c0a11290f05b7dd15816d857 Michael Saiger <mjs638@york.ac.uk> 1604590819 +0000	pull --no-commit origin main: Fast-forward
+c56a5d8c0aeb6508c0a11290f05b7dd15816d857 f1593048033fdd722308d8d349a57cd751a2bd72 Michael Saiger <mjs638@york.ac.uk> 1604593617 +0000	pull --no-commit origin main: Fast-forward
+f1593048033fdd722308d8d349a57cd751a2bd72 9729cafa6d5356711a9c5ccde0a75c802cf9ac07 Michael Saiger <mjs638@york.ac.uk> 1604593647 +0000	commit: new puzzle room and additional switch script
+9729cafa6d5356711a9c5ccde0a75c802cf9ac07 55b17c2872f636f0f56b6009dcb31a8b3356d191 Michael Saiger <mjs638@york.ac.uk> 1604595702 +0000	pull --no-commit origin main: Fast-forward
+55b17c2872f636f0f56b6009dcb31a8b3356d191 5a035d0b52112a0d310cbb01eff7dac8c4f123ea Michael Saiger <mjs638@york.ac.uk> 1604658383 +0000	commit: new sprites added.
+5a035d0b52112a0d310cbb01eff7dac8c4f123ea f2d878c412312fa1c1ceaf29406336e7added25a Michael Saiger <mjs638@york.ac.uk> 1604660989 +0000	commit: sprite changes
+f2d878c412312fa1c1ceaf29406336e7added25a 0dbc430b89a2f4f71495405343a8614439e5ba8e Michael Saiger <mjs638@york.ac.uk> 1604661060 +0000	commit (merge): Merge branch 'main' of https://github.com/BryceAudio/Game-Development-Module into main
+0dbc430b89a2f4f71495405343a8614439e5ba8e 26e5a1cf8c0b06af0f976bac221c4d6946d3aeca Michael Saiger <mjs638@york.ac.uk> 1604665896 +0000	commit: Sprite changes and tilemaps
+26e5a1cf8c0b06af0f976bac221c4d6946d3aeca 51c67949730ce4f9168c4cc6e7534030f51fe991 Michael Saiger <mjs638@york.ac.uk> 1604666046 +0000	commit (merge): Merge branch 'main' of https://github.com/BryceAudio/Game-Development-Module into main
+51c67949730ce4f9168c4cc6e7534030f51fe991 54018acf4b6a5e303d7349e970bb1357e05ecaf3 Michael Saiger <mjs638@york.ac.uk> 1604679877 +0000	commit: new tilemap layers (added beams tilemap to custom make deathzones) and assets added. Deathwall prefab assigned to correct sorting layer
+54018acf4b6a5e303d7349e970bb1357e05ecaf3 22e9a0404baf1632ee462538c4f34beea7f275f5 Michael Saiger <mjs638@york.ac.uk> 1604683860 +0000	commit: updated the jump height and air control so the player can navigate 1 tileblock heights
+22e9a0404baf1632ee462538c4f34beea7f275f5 b057578bb079a6740d27441f83c36183a6203bb8 Michael Saiger <mjs638@york.ac.uk> 1604918351 +0000	pull origin main: Fast-forward
+b057578bb079a6740d27441f83c36183a6203bb8 5a1637565c020dea34947a5edd85f4e5ab7dde3f Michael Saiger <mjs638@york.ac.uk> 1604918369 +0000	commit: Level design and new sprites
+5a1637565c020dea34947a5edd85f4e5ab7dde3f 890141d6f33c41de9da736c09a4b450f1874ec58 Michael Saiger <mjs638@york.ac.uk> 1604925565 +0000	pull origin main: Fast-forward
+890141d6f33c41de9da736c09a4b450f1874ec58 90ccedf88493745406690f64de1ba0f5ce423a54 Michael Saiger <mjs638@york.ac.uk> 1604925615 +0000	commit: Updated levels
+90ccedf88493745406690f64de1ba0f5ce423a54 b74dbe90e8edeb7287d9eb5914d5e3c65f462b0d Michael Saiger <mjs638@york.ac.uk> 1604929141 +0000	pull origin main: Fast-forward
+b74dbe90e8edeb7287d9eb5914d5e3c65f462b0d cdfa43178ba5c973f86c43cd89fa7680884940d3 Michael Saiger <mjs638@york.ac.uk> 1604936678 +0000	commit: fixed switch scripts and added boxintro level
+cdfa43178ba5c973f86c43cd89fa7680884940d3 8e884df4139511c83dc3abc4dc2ac81043e8fb49 Michael Saiger <mjs638@york.ac.uk> 1604939120 +0000	pull origin main: Fast-forward
+8e884df4139511c83dc3abc4dc2ac81043e8fb49 bc656c141c4b97e3a377564129adbbd5ec859740 Michael Saiger <mjs638@york.ac.uk> 1604948315 +0000	commit: Pipes assets added for background. Fixed platform added.
+bc656c141c4b97e3a377564129adbbd5ec859740 0084c7e8faa09baf2ac2c4e8d6dc32d3859e8c45 Michael Saiger <mjs638@york.ac.uk> 1605002552 +0000	pull origin main: Fast-forward
+0084c7e8faa09baf2ac2c4e8d6dc32d3859e8c45 360897a22261a7e33fcb37c5fad2d1acd751e0d7 Michael Saiger <mjs638@york.ac.uk> 1605002590 +0000	commit: Updates to pipes tiles and changed some of the first levels. added new prefabs for jet powered platforms
+360897a22261a7e33fcb37c5fad2d1acd751e0d7 3868dc8ef05afe33f00568a26e22af2242dd38f2 Michael Saiger <mjs638@york.ac.uk> 1605003421 +0000	commit: updates to platforming levels
+3868dc8ef05afe33f00568a26e22af2242dd38f2 e1f4e6059a4ceb0620dd7f396e2f8589cce0f0a8 Michael Saiger <mjs638@york.ac.uk> 1605008809 +0000	commit: signs and changes to levels
+e1f4e6059a4ceb0620dd7f396e2f8589cce0f0a8 6ad2fbb4703f810380f6c9627d1fe1fd439b1bea Michael Saiger <mjs638@york.ac.uk> 1605008853 +0000	commit (merge): Merge branch 'main' of https://github.com/BryceAudio/Game-Development-Module into main
+6ad2fbb4703f810380f6c9627d1fe1fd439b1bea e1f4e6059a4ceb0620dd7f396e2f8589cce0f0a8 Michael Saiger <mjs638@york.ac.uk> 1605008945 +0000	reset: moving to e1f4e6059a4ceb0620dd7f396e2f8589cce0f0a8
+e1f4e6059a4ceb0620dd7f396e2f8589cce0f0a8 6ad2fbb4703f810380f6c9627d1fe1fd439b1bea Michael Saiger <mjs638@york.ac.uk> 1605008996 +0000	pull --no-commit origin main: Fast-forward
+6ad2fbb4703f810380f6c9627d1fe1fd439b1bea e1f4e6059a4ceb0620dd7f396e2f8589cce0f0a8 Michael Saiger <mjs638@york.ac.uk> 1605009042 +0000	reset: moving to e1f4e6059a4ceb0620dd7f396e2f8589cce0f0a8
+e1f4e6059a4ceb0620dd7f396e2f8589cce0f0a8 6ad2fbb4703f810380f6c9627d1fe1fd439b1bea Michael Saiger <mjs638@york.ac.uk> 1605009151 +0000	pull --no-commit origin main: Fast-forward
+6ad2fbb4703f810380f6c9627d1fe1fd439b1bea e1f4e6059a4ceb0620dd7f396e2f8589cce0f0a8 Michael Saiger <mjs638@york.ac.uk> 1605009278 +0000	reset: moving to e1f4e6059a4ceb0620dd7f396e2f8589cce0f0a8
+e1f4e6059a4ceb0620dd7f396e2f8589cce0f0a8 6ad2fbb4703f810380f6c9627d1fe1fd439b1bea Michael Saiger <mjs638@york.ac.uk> 1605009465 +0000	pull --no-commit origin main: Fast-forward
+6ad2fbb4703f810380f6c9627d1fe1fd439b1bea c1c421b631169db08a6e46778ad2a0c62ba10977 Michael Saiger <mjs638@york.ac.uk> 1605009587 +0000	commit: fixing merged files
+c1c421b631169db08a6e46778ad2a0c62ba10977 8fdaed0f5b55f86eb97cec6593ea288cd89e9dea Michael Saiger <mjs638@york.ac.uk> 1605009891 +0000	pull --no-commit origin main: Fast-forward
+8fdaed0f5b55f86eb97cec6593ea288cd89e9dea 28475735ca78ccde9aebff8d03377565c15f49e1 Michael Saiger <mjs638@york.ac.uk> 1605011593 +0000	pull --no-commit origin main: Fast-forward
+28475735ca78ccde9aebff8d03377565c15f49e1 750d9114f09c0e1d34712811fef1255cf09ec924 Michael Saiger <mjs638@york.ac.uk> 1605011650 +0000	commit: checkpoint working on 3rd level. updates to first levels
+750d9114f09c0e1d34712811fef1255cf09ec924 3677fcd77a4aef1a2493a3fdef0713a1d11f7139 Michael Saiger <mjs638@york.ac.uk> 1605017235 +0000	commit: scenes stitched together and scene manager improved
+3677fcd77a4aef1a2493a3fdef0713a1d11f7139 85ac8891e6ecfff0f787f8a2a5b58536fc028b7c Michael Saiger <mjs638@york.ac.uk> 1605020387 +0000	pull --no-commit origin main: Fast-forward
+85ac8891e6ecfff0f787f8a2a5b58536fc028b7c a77354c1002cebe16c8162059d5fcf831cdbceac Michael Saiger <mjs638@york.ac.uk> 1605020799 +0000	pull --no-commit origin main: Fast-forward
+a77354c1002cebe16c8162059d5fcf831cdbceac d5c9a517a70b9d4bb7236588eb777fcc7805490b Michael Saiger <mjs638@york.ac.uk> 1605029522 +0000	pull --no-commit origin main: Fast-forward
+d5c9a517a70b9d4bb7236588eb777fcc7805490b 98d3010cd8e1ac3ba2a34f9b5cb149ef941ae1a9 Michael Saiger <mjs638@york.ac.uk> 1605049354 +0000	commit: fixes and updates up to level 7
+98d3010cd8e1ac3ba2a34f9b5cb149ef941ae1a9 6a23c81bc1525a1c3529fa5fec529ecaacdaafae Michael Saiger <mjs638@york.ac.uk> 1605090899 +0000	pull --no-commit origin main: Fast-forward
+6a23c81bc1525a1c3529fa5fec529ecaacdaafae 2a3c3feb47b5a43de3d7f80aaa477294e2c3a286 Michael Saiger <mjs638@york.ac.uk> 1605090938 +0000	commit: 2 new levels added and edit to pipes
+2a3c3feb47b5a43de3d7f80aaa477294e2c3a286 d891a5af4134e619d5337ba8916b83f865c802fd Michael Saiger <mjs638@york.ac.uk> 1605091196 +0000	commit: removed collision off level layer
+d891a5af4134e619d5337ba8916b83f865c802fd 270470c5dafcef96787ed79175d14ed79b3f7abc Michael Saiger <mjs638@york.ac.uk> 1605091613 +0000	pull --no-commit origin main: Fast-forward
+270470c5dafcef96787ed79175d14ed79b3f7abc 925d684b926fe5b9036095210c4148f14551bd1c Michael Saiger <mjs638@york.ac.uk> 1605091636 +0000	commit: fix flickering on lifts
+925d684b926fe5b9036095210c4148f14551bd1c b68e5ddb561871d84a4207adc597fa360a8f6a74 Michael Saiger <mjs638@york.ac.uk> 1605092583 +0000	pull --no-commit origin main: Fast-forward
+b68e5ddb561871d84a4207adc597fa360a8f6a74 848359c6b405747afad3ee4f2c4124c4e675764e Michael Saiger <mjs638@york.ac.uk> 1605093848 +0000	commit: Tidying up files and. Added Prod folder. Removed unused assets. Added eventSystems
+848359c6b405747afad3ee4f2c4124c4e675764e cfbad317b82b1d921e1e5248420acd383f1dc8df Michael Saiger <mjs638@york.ac.uk> 1605095101 +0000	pull --no-commit origin main: Fast-forward
+cfbad317b82b1d921e1e5248420acd383f1dc8df 611b15b79895b5bac1ea1daa2c48bc17c0e497e2 Michael Saiger <mjs638@york.ac.uk> 1605097039 +0000	commit: updated droid colour and animations. updated slidingblocktunnel
+611b15b79895b5bac1ea1daa2c48bc17c0e497e2 b7e8cc1e0d2c6e878ab14058fb504f52f368ccf8 Michael Saiger <mjs638@york.ac.uk> 1605097626 +0000	commit: made a change to the level
+b7e8cc1e0d2c6e878ab14058fb504f52f368ccf8 d9e58f70abdffb3a0e96834b87ed802421fd64ed Michael Saiger <mjs638@york.ac.uk> 1605102193 +0000	pull --no-commit origin main: Fast-forward
+d9e58f70abdffb3a0e96834b87ed802421fd64ed 96d39f883fe1d952ac3dece5f9439d879fd3ba47 Michael Saiger <mjs638@york.ac.uk> 1605106481 +0000	pull --no-commit origin main: Fast-forward
+96d39f883fe1d952ac3dece5f9439d879fd3ba47 af2c491ef137198e584181f957b16461fcd45ea2 Michael Saiger <mjs638@york.ac.uk> 1605106515 +0000	commit: Changes to grav gun 1 and signage
+af2c491ef137198e584181f957b16461fcd45ea2 ba56a247e5025216c79b63bddbc8d7288e305cd5 Michael Saiger <mjs638@york.ac.uk> 1605109412 +0000	pull --no-commit origin main: Fast-forward
+ba56a247e5025216c79b63bddbc8d7288e305cd5 7424f17c524e4a4d98f7844349af384234619745 Michael Saiger <mjs638@york.ac.uk> 1605109554 +0000	commit: changes to grav gun scenes. Added the grav gun sprite
+7424f17c524e4a4d98f7844349af384234619745 e1ba113c85c1bd77fe1c68fdf2df803865939eb8 Michael Saiger <mjs638@york.ac.uk> 1605111501 +0000	pull --no-commit origin main: Fast-forward
+e1ba113c85c1bd77fe1c68fdf2df803865939eb8 c3c0df6a5738ca5434b15567015f267e012aefea Michael Saiger <mjs638@york.ac.uk> 1605112728 +0000	commit: level updates and sprites added for extra highlighting
+c3c0df6a5738ca5434b15567015f267e012aefea 9865a5e2b3e37b99260419c021df1e538a119b99 Michael Saiger <mjs638@york.ac.uk> 1605115248 +0000	commit: Updates to level. Setting level added
+9865a5e2b3e37b99260419c021df1e538a119b99 77a7b383badb5c9cbca25108bea5f6439edb2ded Michael Saiger <mjs638@york.ac.uk> 1605174743 +0000	commit: added new projectile. fluid_m level. bucket and spinner sprites
+77a7b383badb5c9cbca25108bea5f6439edb2ded 52894a5756f22791f4778afc6941b8cb3c4931e4 Michael Saiger <mjs638@york.ac.uk> 1605175815 +0000	pull --no-commit origin main: Fast-forward
+52894a5756f22791f4778afc6941b8cb3c4931e4 f51941d02d2e49d53813bf904e5578065a78f7e1 Michael Saiger <mjs638@york.ac.uk> 1605175827 +0000	commit: Updated spinner prefab
+f51941d02d2e49d53813bf904e5578065a78f7e1 c9f418099663de32b58c7bdde88c6d1330d13350 Michael Saiger <mjs638@york.ac.uk> 1605182260 +0000	pull --no-commit origin main: Fast-forward
+c9f418099663de32b58c7bdde88c6d1330d13350 45dd42a3da429fcd70f23af97d0fc7ab47a87187 Michael Saiger <mjs638@york.ac.uk> 1605182334 +0000	commit: Changes to fluid_M and Gravgun Vault test levels. blue lasers added
+45dd42a3da429fcd70f23af97d0fc7ab47a87187 fc2fc8132e10b5a0ce2038c2231c2af52da50c11 Michael Saiger <mjs638@york.ac.uk> 1605184226 +0000	pull --no-commit origin main: Fast-forward
+fc2fc8132e10b5a0ce2038c2231c2af52da50c11 532ac357b482ab37d26dc23fb62eae26bc4e8216 Michael Saiger <mjs638@york.ac.uk> 1605184241 +0000	commit: changes to gravgunvault and greendoor prefab
+532ac357b482ab37d26dc23fb62eae26bc4e8216 f155957af14a9dfe55baf95a9fa190767aa77417 Michael Saiger <mjs638@york.ac.uk> 1605184839 +0000	pull --no-commit origin main: Fast-forward
+f155957af14a9dfe55baf95a9fa190767aa77417 d811492eb9298be64237855c3b6f2b7e3c6a2395 Michael Saiger <mjs638@york.ac.uk> 1605185554 +0000	pull --no-commit origin main: Fast-forward
+d811492eb9298be64237855c3b6f2b7e3c6a2395 3ad3f47d860d5b07b901fe53b7b3cf99eece5a42 Michael Saiger <mjs638@york.ac.uk> 1605185603 +0000	commit: Implemented the vault room and changed the old pick up room to be the tutorial
+3ad3f47d860d5b07b901fe53b7b3cf99eece5a42 05ee71ac460a2c53e7c7292450f1a20a1d30a9fd Michael Saiger <mjs638@york.ac.uk> 1605194494 +0000	pull --no-commit origin main: Fast-forward
+05ee71ac460a2c53e7c7292450f1a20a1d30a9fd 54a9afb42854ae8eaf83e345facce03016d746b5 Michael Saiger <mjs638@york.ac.uk> 1605197354 +0000	pull --no-commit origin main: Fast-forward
+54a9afb42854ae8eaf83e345facce03016d746b5 77343752a437b6ff10554afd9908dbdbdde35470 Michael Saiger <mjs638@york.ac.uk> 1605203924 +0000	pull --no-commit origin main: Fast-forward
+77343752a437b6ff10554afd9908dbdbdde35470 0441f84de94a4165a0ba4ac6d93e7b1ef43866bb Michael Saiger <mjs638@york.ac.uk> 1605204567 +0000	commit: edited all levels. Added two final scenes. Populated signage throughout
+0441f84de94a4165a0ba4ac6d93e7b1ef43866bb 997c8ca47a62645c911fe4bd8fdf94a341309206 Michael Saiger <mjs638@york.ac.uk> 1605205275 +0000	commit: minor aesthetic fix
+997c8ca47a62645c911fe4bd8fdf94a341309206 efe3b294bf6595ef4f0241558e68eaca3aa35004 Michael Saiger <mjs638@york.ac.uk> 1605214703 +0000	pull --no-commit origin main: Fast-forward
+efe3b294bf6595ef4f0241558e68eaca3aa35004 21ae756ede8fa15f9953f93c52f02f0142301e4d Michael Saiger <mjs638@york.ac.uk> 1605264186 +0000	pull --no-commit origin main: Fast-forward
+21ae756ede8fa15f9953f93c52f02f0142301e4d 8bf04929264db4fe53b4c5d8ba66dbc697dd239b Michael Saiger <mjs638@york.ac.uk> 1605264540 +0000	pull --no-commit origin main: Fast-forward
+8bf04929264db4fe53b4c5d8ba66dbc697dd239b 8be66d974f256ed4ff7e7fc5d813dd81ef5a47b2 Michael Saiger <mjs638@york.ac.uk> 1605264551 +0000	commit: level fixes
+8be66d974f256ed4ff7e7fc5d813dd81ef5a47b2 991229d2e7c774d9df08ac982b81b35e07350998 Michael Saiger <mjs638@york.ac.uk> 1605264580 +0000	commit: flickering asset
+991229d2e7c774d9df08ac982b81b35e07350998 1125574fc7da9f1eb480f744ee810d8ac6a82453 Michael Saiger <mjs638@york.ac.uk> 1605264822 +0000	pull --no-commit origin main: Fast-forward
+1125574fc7da9f1eb480f744ee810d8ac6a82453 36b853039d6b7dfcc68919788c6970591c36ee44 Michael Saiger <mjs638@york.ac.uk> 1605265396 +0000	pull --no-commit origin main: Fast-forward
+36b853039d6b7dfcc68919788c6970591c36ee44 015f8c9fd1152b873b030d4f247f5203b4d1cd41 Michael Saiger <mjs638@york.ac.uk> 1605265665 +0000	commit: updates to prefabs
+015f8c9fd1152b873b030d4f247f5203b4d1cd41 e10824ad6c39dc41ba8d4a44900db028b30bc687 Michael Saiger <mjs638@york.ac.uk> 1605265785 +0000	reset: moving to e10824ad6c39dc41ba8d4a44900db028b30bc687
+e10824ad6c39dc41ba8d4a44900db028b30bc687 5ff361bc4cc4629dfe23f2140bd07f2d63da07d6 Michael Saiger <mjs638@york.ac.uk> 1605265907 +0000	commit: prefab changes to switch layer
+5ff361bc4cc4629dfe23f2140bd07f2d63da07d6 cea90bdf234716a06f69bfa495e189e94a5955c5 Michael Saiger <mjs638@york.ac.uk> 1605268212 +0000	pull --no-commit origin main: Fast-forward
+cea90bdf234716a06f69bfa495e189e94a5955c5 ae48eb756f73e3130d3b2552ecda9a4ea73f5da0 Michael Saiger <mjs638@york.ac.uk> 1605269418 +0000	pull --no-commit origin main: Fast-forward
+ae48eb756f73e3130d3b2552ecda9a4ea73f5da0 7808cf675094436b77d65ce55ae95055795c5ace Michael Saiger <mjs638@york.ac.uk> 1605269902 +0000	pull --no-commit origin main: Fast-forward
+7808cf675094436b77d65ce55ae95055795c5ace 92c9fa997d0785cf3174f034fcfcb8724d9f2c7a Michael Saiger <mjs638@york.ac.uk> 1605270709 +0000	commit: Level updates and sign updated
+92c9fa997d0785cf3174f034fcfcb8724d9f2c7a c53ae81449360694df8c29b041833a99f290023c Michael Saiger <mjs638@york.ac.uk> 1605270815 +0000	commit: fixed flickering
+c53ae81449360694df8c29b041833a99f290023c b9236fec86edcf1996b6d9e4de2d3935e9a263cf Michael Saiger <mjs638@york.ac.uk> 1605271300 +0000	commit: level fixes. checkpoint weren't working
+b9236fec86edcf1996b6d9e4de2d3935e9a263cf ee7fe120a1b0320752558f66b8ac41ccba9eee51 Michael Saiger <mjs638@york.ac.uk> 1605271393 +0000	reset: moving to ee7fe120a1b0320752558f66b8ac41ccba9eee51
+ee7fe120a1b0320752558f66b8ac41ccba9eee51 79e86474522467c11cae72e7d57cdaf93fda7910 Michael Saiger <mjs638@york.ac.uk> 1605271438 +0000	commit: level fixes
+79e86474522467c11cae72e7d57cdaf93fda7910 79e86474522467c11cae72e7d57cdaf93fda7910 Michael Saiger <mjs638@york.ac.uk> 1605271459 +0000	reset: moving to 79e86474522467c11cae72e7d57cdaf93fda7910
+79e86474522467c11cae72e7d57cdaf93fda7910 93189f6e0b0ce53bf190b6e3e7fbc5a7eb24caa8 Michael Saiger <mjs638@york.ac.uk> 1605271890 +0000	commit: Assinging purple grab field
+93189f6e0b0ce53bf190b6e3e7fbc5a7eb24caa8 372973a402d9cf0cc9909ebda82aeb7eed69e8f6 Michael Saiger <mjs638@york.ac.uk> 1605279769 +0000	pull --no-commit origin main: Fast-forward
+372973a402d9cf0cc9909ebda82aeb7eed69e8f6 280781b2636869388ab8fddda34a36d493054be7 Michael Saiger <mjs638@york.ac.uk> 1605280009 +0000	commit: level updates to fix fullscreen. Added sign for grav gun capacity and updates laser wall prefabs to kill player
+280781b2636869388ab8fddda34a36d493054be7 757dc09cdb9019330619b4b9e7de8cae0e246c00 Michael Saiger <mjs638@york.ac.uk> 1605280223 +0000	pull --no-commit origin main: Fast-forward
+757dc09cdb9019330619b4b9e7de8cae0e246c00 b130fd0db6c124c027db431536719a2a8581664f Michael Saiger <mjs638@york.ac.uk> 1605282693 +0000	pull --no-commit origin main: Fast-forward
+b130fd0db6c124c027db431536719a2a8581664f 8394125699658d1a41777d27f18630e1331442da Michael Saiger <mjs638@york.ac.uk> 1605283008 +0000	pull --no-commit origin main: Fast-forward
+8394125699658d1a41777d27f18630e1331442da d8c81c6124702cdbf4569632cead21d6abd48f99 Michael Saiger <mjs638@york.ac.uk> 1605285286 +0000	pull --no-commit origin main: Fast-forward
+d8c81c6124702cdbf4569632cead21d6abd48f99 1d447a646e2736306dea07dcc1e17f7d5c20a1f1 Michael Saiger <mjs638@york.ac.uk> 1605285311 +0000	commit: new wires layer to visually support switches
+1d447a646e2736306dea07dcc1e17f7d5c20a1f1 039b0a3ba72a23242b759b53e9ef510a480470e6 Michael Saiger <mjs638@york.ac.uk> 1605285472 +0000	commit: missed a scene
+039b0a3ba72a23242b759b53e9ef510a480470e6 ad67a8bf99be4213bd1b995ad4596a0003109c6f Michael Saiger <mjs638@york.ac.uk> 1605285647 +0000	pull --no-commit origin main: Fast-forward
+ad67a8bf99be4213bd1b995ad4596a0003109c6f 5498032159b4ffaf5fa528fb525e9d87d9f604a4 Michael Saiger <mjs638@york.ac.uk> 1605285711 +0000	commit: fixed green wire
+5498032159b4ffaf5fa528fb525e9d87d9f604a4 c609003346b2b8a5dd2f5ae823ea4215b24d721c Michael Saiger <mjs638@york.ac.uk> 1605522382 +0000	pull --no-commit origin main: Fast-forward
+c609003346b2b8a5dd2f5ae823ea4215b24d721c bc1b44a53a7288744c14ddfdab52a97a5c57f861 Michael Saiger <mjs638@york.ac.uk> 1605545733 +0000	pull --no-commit origin main: Fast-forward
+bc1b44a53a7288744c14ddfdab52a97a5c57f861 967016bb5472a99a2a49031e2c02976438d3c2d5 Michael Saiger <mjs638@york.ac.uk> 1605545750 +0000	commit: Fixed visual bug with checkpoint
+967016bb5472a99a2a49031e2c02976438d3c2d5 69ed0994332f39a34f817875b7bc939b9a790e2e Michael Saiger <mjs638@york.ac.uk> 1605608279 +0000	commit: minor visual vix
+69ed0994332f39a34f817875b7bc939b9a790e2e 0000000000000000000000000000000000000000 Michael Saiger <micia1592@gmail.com> 1707324186 +0000	Branch: renamed refs/heads/main to refs/heads/main
+69ed0994332f39a34f817875b7bc939b9a790e2e 69ed0994332f39a34f817875b7bc939b9a790e2e Michael Saiger <micia1592@gmail.com> 1707324186 +0000	Branch: renamed refs/heads/main to refs/heads/main
+69ed0994332f39a34f817875b7bc939b9a790e2e 0000000000000000000000000000000000000000 Michael Saiger <micia1592@gmail.com> 1707324247 +0000	Branch: renamed refs/heads/main to refs/heads/main
+69ed0994332f39a34f817875b7bc939b9a790e2e 69ed0994332f39a34f817875b7bc939b9a790e2e Michael Saiger <micia1592@gmail.com> 1707324247 +0000	Branch: renamed refs/heads/main to refs/heads/main
